@@ -19,7 +19,7 @@ Before running the application, ensure you have the following installed:
 - **Database** (e.g., PostgreSQL, MySQL, or SQLite)
   
 ## Technologies Used
-- **Django Rest Framework**: Web framework for building the API and web app.
+- **Django Rest Framework**: Web framework for building the API.
 - **PostgreSQL**: For storing and retrieveing the data.
 - **Postman**: For Testing of API Endpoints.
 
