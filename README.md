@@ -34,9 +34,10 @@ Before running the application, ensure you have the following installed:
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    
 4. Install the required dependencies:
+   
    pip install -r requirements.txt
 
-5. Set up the database (follow instructions in DATABASE.md if available).
+6. Set up the database (follow instructions in DATABASE.md if available).
    
 7. Run the application:
    python manage.py runserver
