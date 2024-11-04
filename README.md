@@ -3,12 +3,12 @@ Build a basic REST API to manage employees in a company, focusing on CRUD operat
 
 ## Features
 
-- API Endpoints
-Create an Employee
-List all Employees
-Retrieve a Single Employee
-Update an Employee
-Delete an Employee
+API Endpoints
+- Create an Employee
+- List all Employees
+- Retrieve a Single Employee
+- Update an Employee
+- Delete an Employee
 
 - Validation
 Ensure email is unique and valid.
